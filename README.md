@@ -19,3 +19,5 @@ In this repository, you'll find upscaled and retextured line art for various tur
 ## Examples
 1. **Examples of MK-I, MK-III, and MK-IV** with the different metals used: **Steel, Uranium, Plasteel, Silver, and Gold** in that order.
 ![alt text](https://github.com/GynderDK/Misc.-TurretBase-Objects---ReTexture/blob/main/Color%20Examples%20-%20With%20Large%20Turret.jpg?raw=true)
+2. **The rest of the turrets**, as in Medium and Small turret, also included is the Manuel Base, with turrets.
+![alt text](https://github.com/GynderDK/Misc.-TurretBase-Objects---ReTexture/blob/main/20240406024429_1.jpg?raw=true)
