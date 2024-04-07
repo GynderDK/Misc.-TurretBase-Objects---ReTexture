@@ -2,7 +2,7 @@
 
 Welcome to the Upscaled and Retextured Turrets repository for the Rimworld mod "Misc. TurretBase, Objects"! This repo is dedicated to providing high-quality line art for turrets and turret bases, offering a solid foundation for modders and enthusiasts looking to personalize their Rimworld experience.
 
-The **Misc. TurretBase, Objects** mod is one of my all time favourite mods, and after using the **Camera+** mod, the low resolution of the existing textures were really noticeable, so I decided to try and Upscale them while keeping the original design-
+The **Misc. TurretBase, Objects** mod is one of my all time favourite mods, and after using the **Camera+** mod, the low resolution of the existing textures were really noticeable, so I decided to try and **upscale** them while keeping the original design.
 
 ## About
 In this repository, you'll find upscaled and retextured line art for various turrets and turret bases used in a Rimworld mod, specifically tailored for the "Misc. TurretBase, Objects" mod. The focus is on delivering detailed and enhanced visuals while leaving the coloring process to the creativity of individual users. This approach allows for a more personalized and unique gameplay experience, as users can apply their own color schemes and textures.
