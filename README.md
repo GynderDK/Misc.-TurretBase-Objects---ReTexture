@@ -10,6 +10,7 @@ In this repository, you'll find upscaled and retextured line art for various tur
 ## Contents
 - **Upscaled Turret Line Art**: High-resolution line art for various turret designs.
 - **Retextured Turret Bases Line Art**: Enhanced and detailed line art for turret bases, ready for texturing.
+- **Upscaled color version**: High-resolution color versions, with the same color scheme as the original. **Both bases and Turrets.**
 - **PSD files**: I've included the .PSD files.
 
 ## How to Use
